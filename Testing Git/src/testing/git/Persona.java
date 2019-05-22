@@ -10,5 +10,6 @@ package testing.git;
  * @author Facu
  */
 public class Persona {
+    int edad;
     
 }
